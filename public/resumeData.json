@@ -1,0 +1,112 @@
+{
+  "main": {
+    "name": "Mohammed Affan",
+    "occupation": "Fullstack Javascript Developer",
+    "description": "",
+    "image": "profilePic.jpeg",
+    "bio": "My name is Affan, I'm a Full Stack Javascript Developer. Primarily working on Frontend(React.js, Vue.js) now I'm working at Zen3(Acquired by Tech Mahindra) ",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "mohammed.affan4@gmail.com",
+    "phone": "+91 9494188711",
+    "address": {
+      "street": "China Waltair",
+      "city": "Vizag",
+      "state": "AP, India",
+      "zip": "530017"
+    },
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/mdaffan01/",
+        "className": "fa fa-linkedin"
+      }
+    ]
+  },
+  "resume": {
+    "education": [
+      {
+        "school": "JNTUK",
+        "degree": "B.Tech In Electronics and Communication",
+        "graduated": "May 2019",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "Zen3Tech",
+        "title": "Fullstack Javascript Developer",
+        "years": "July 2019 - Present",
+        "description": "Worked on building FrontEnd for a Product using Vue.js, SSR(Nuxt.js) built from scratch, So had a big hand in the project structure, best practices and architectural standards from the very beginning. I was in this product for almost 9 months where in I saw this product from small to really shape up and was a significant part of it ●Worked on some Database functions and Api's using Node.js for few weeks. ●Roped into another product which is using React.js, Luck did it's trick this time too, This product was starting on V2 version of it, It was no feature addition everything had to be migrated into a new well architected, Scalable boilerplate. Started on it and completed it with the feedback and help from the Architect. Currently working in this project, building User interfaces, Complex UI logic and last but not the least having fun."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Javascript",
+        "level": "90%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "95%"
+      },
+      {
+        "name": "VueJs",
+        "level": "95%"
+      },
+      {
+        "name": "Typescript",
+        "level": "75%"
+      },
+      {
+        "name": "AWS(Solutions Architect-Certified)",
+        "level": "70%"
+      },
+      {
+        "name": "Nuxt.js",
+        "level": "95%"
+      },
+      {
+        "name": "Node.js",
+        "level": "70%"
+      },
+      {
+        "name": "Git",
+        "level": "80%"
+      },
+      {
+        "name": "PostgreSql",
+        "level": "60%"
+      },
+      {
+        "name": "HTML5",
+        "level": "95%"
+      },
+      {
+        "name": "Css",
+        "level": "85%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "60%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "DevWorld-Social Network for developers(MERN Stack)",
+        "category": "BackEnd is implemented using node.js,express.js and authentication is done by passport.js,Json web tokens FrontEnd is implemented using React.js, bootstrap,HTML,CSS and State management is done by redux",
+        "image": "projectDev.png",
+        "url": "https://mdaffan01.herokuapp.com/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "If you want to work with a self-made, talented, and confident software engineer, look no further than Affan. In a year of my association with Affan, I have seen him learn and master reactjs, vuejs, nodejs, and AWS. His strong technical skills, excellent communication, and interpersonal skills helped him be part of multiple prestigious projects at Zen3. And in every project, he sure has earned himself the coveted “star player” hat. Affan is a high potential software engineer and will be an asset to any organization.Top skills: JavaScript (reacts, vuejs, nodejs), AWS, excellent communication, go-getter, results-oriented ",
+        "user": "Bharat Meda- Engineering Manager/Architect"
+      }
+    ]
+  }
+}
